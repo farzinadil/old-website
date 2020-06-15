@@ -87,14 +87,6 @@ sub {
 img {
   border: 0;
 }
-.smlink {
-  padding-left: 50px;
-  padding-right: 50px;
-}
-one {
-  width: "195";
-  height: "195";
-}
 svg:not(:root) {
   overflow: hidden;
 }

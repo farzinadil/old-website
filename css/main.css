@@ -1,6 +1,15 @@
-#smlink2 {
-    margin-left: 10%;
-    margin-right: 10%;
+
+#smlinkIcon1 {
+    width: 15%;
+    height: 15%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#smlinkIcon2 {
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 18%;
+    width: 18%;
 }
 #smlinkbox{
     text-align: center;
