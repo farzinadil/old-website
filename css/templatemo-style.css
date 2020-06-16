@@ -504,6 +504,7 @@ ul {
   padding: 0px 60px;
   position: relative;
   margin: 0 auto;
+  
 }
 
 .contact-content .heading {
@@ -512,8 +513,9 @@ ul {
 
 .contact-content .contat-form {
   background-color: rgba(250, 250, 250, 0.03);
-  padding: 30px 80px 30px 30px;
-  margin-right: -50px;
+  padding: 30px 30px 30px 30px;
+  margin-left: 130px;
+  margin-right: -70px;
 }
 
 .contact-content input {
