@@ -670,8 +670,8 @@ ul {
     margin-right: 15px;
   }
   .projects-content {
-    width: 100vh;
-    height: 100vh;
+    width: 80vh;
+    height: 80vh;
     padding: 0px 30px;
   }
   .project-item  {
@@ -688,7 +688,7 @@ ul {
     width: 100%;
   }
   .projects-content .text-content {
-    display: none;
+    display: block;
   }
   .contact-content .more-info {
     padding: 30px;
