@@ -239,43 +239,19 @@ ul {
 }
 
 .b-blue {
-  margin-bottom: -2px;
-  background-image: url(../img/first-bg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  overflow: hidden;
-  background-attachment: fixed;
+  background-color: #272b32;
 }
 
 .b-red {
-  background-image: url(../img/second-bg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  overflow: hidden;
-  background-attachment: fixed;
-  margin-top: -2px;
+  background-color: #272b32;
 }
 
 .b-green {
-  margin-top: -2px;
-  background-image: url(../img/third-bg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  overflow: hidden;
-  background-attachment: fixed;
+  background-color: #272b32;
 }
 
 .b-yellow {
-  margin-top: -1px;
-  background-image: url(../img/fourth-bg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  overflow: hidden;
-  background-attachment: fixed;
+  background-color: #272b32;
 }
 
 
